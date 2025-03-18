@@ -1,4 +1,6 @@
 <?php
+//changed something here
+
 session_start();
 $servername = "localhost";
 $username = "root"; // Change if needed
